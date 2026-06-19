@@ -1,3 +1,4 @@
+
 # 🚛 Spotter — Route Planner & ELD Generator
 
 A production-grade full-stack logistics SaaS application that helps truck drivers plan routes and automatically generate FMCSA-compliant Electronic Logging Device (ELD) logs.
@@ -318,3 +319,4 @@ MIT License — See LICENSE file for details.
 - [FMCSA Hours of Service Regulations](https://www.fmcsa.dot.gov/regulations/hours-service/summary-hours-service-regulations)
 - [ReportLab](https://www.reportlab.com/) — PDF generation
 - [React Leaflet](https://react-leaflet.js.org/) — Interactive maps
+
